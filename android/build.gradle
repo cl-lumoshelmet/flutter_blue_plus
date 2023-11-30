@@ -21,6 +21,4 @@ android {
             options.compilerArgs << "-Xlint:unchecked"
         }
     }
-
-    namespace 'com.lib.flutter_blue_plus'
 }
